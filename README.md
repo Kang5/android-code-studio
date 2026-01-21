@@ -131,3 +131,4 @@ along with AndroidCodeStudio.  If not, see <https://www.gnu.org/licenses/>.
 
 Any violations to the license can be reported either by opening an issue or writing a mail to us
 directly.
+你好
